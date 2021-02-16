@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackNavigationSample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="label_fragment_one">This is Fragment One</string>
+    <string name="label_fragment_two">This is Fragment Two</string>
+    <string name="enter_label">Enter sample text below</string>
+    <string name="data_label">Value passed from Fragment One is below </string>
+    <string name="button_submit">Click to launch next Fragment</string>
+</resources>
